@@ -1,6 +1,13 @@
 # Hi, I'm James Mwangi 👋
 
 ## About Me
+## Git Configuration
+
+The Git configuration used for this project:
+
+```text
+user.name=James Mwangi
+user.email=jamesmwangiismyhandle@gmail.com
 
 I am an Agriculture Teacher and Football & Handball Coach with four years of teaching experience.
 
