@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm James Mwangi 👋
 
-<!--
-**jamesmwangi96ismyhandle-source/jamesmwangi96ismyhandle-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am an Agriculture Teacher and Football & Handball Coach with four years of teaching experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## My Skills
+
+- 🌱 Agricultural Education
+- 👨‍🏫 Teaching
+- ⚽ Football Coaching
+- 🤾 Handball Coaching
+- 📫 How to reach me:
+Contact : 0719182336
+📧 Email: jamesmwangiismyhandle@gmail.com
+
+📍 Kenya
+
+⚡ Fun fact: I love swimming and playing chess.
+
+Thank you for visiting my profile! 🚀
+
 -->
