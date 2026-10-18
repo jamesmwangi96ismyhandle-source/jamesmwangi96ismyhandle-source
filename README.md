@@ -1,20 +1,26 @@
--->
-Hi, I'm James Mwangi 
-About Me
 
-I am an Agriculture Teacher and Football and Handball Coach with four years of teaching experience. I am currently learning software development and building my skills with Git, GitHub, and web development.
+# Hi, I'm James Mwangi 👋
 
-My Skills and Interests
-🌱 Agricultural Education
-👨‍🏫 Teaching and mentoring
-⚽ Football coaching
-🤾 Handball coaching
-💻 Learning web development
-♟️ Chess and swimming
-  
-Git Configuration
+## About Me
+I am a teacher, football coach, and aspiring web developer.
+I am developing my digital skills through the IYF Season 12 program.
 
-The following is my Git configuration:
+## My Skills and Interests
+- Teaching and mentorship
+- Football and handball coaching
+- Agriculture and Integrated Science
+- HTML and web development
+- Git and GitHub
+
+## My Learning Projects
+
+- [My Live Portfolio](https://jamesmwangi96ismyhandle-source.github.io/)
+- [Markdown Practice File](https://github.com/jamesmwangi96ismyhandle-source/jamesmwangi96ismyhandle-source/blob/main/markdown-practice.md)
+- [My Team Repository](https://github.com/taurajames/IYF-S12-week-0-team-taurajames)
+
+## Connect With Me
+- [GitHub Profile](https://github.com/jamesmwangi96ismyhandle-source)
+
 ```text
 user.name=James Mwangi
 user.email=jamesmwangiismyhandle@gmail.com
