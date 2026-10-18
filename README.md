@@ -1,30 +1,26 @@
-# Hi, I'm James Mwangi 👋
+-->
+Hi, I'm James Mwangi 
+About Me
 
-## About Me
-## Git Configuration
+I am an Agriculture Teacher and Football and Handball Coach with four years of teaching experience. I am currently learning software development and building my skills with Git, GitHub, and web development.
 
-The Git configuration used for this project:
+My Skills and Interests
+🌱 Agricultural Education
+👨‍🏫 Teaching and mentoring
+⚽ Football coaching
+🤾 Handball coaching
+💻 Learning web development
+♟️ Chess and swimming
+  
+Git Configuration
 
+The following is my Git configuration:
 ```text
 user.name=James Mwangi
 user.email=jamesmwangiismyhandle@gmail.com
 
-I am an Agriculture Teacher and Football & Handball Coach with four years of teaching experience.
-
-## My Skills
-
-- 🌱 Agricultural Education
-- 👨‍🏫 Teaching
-- ⚽ Football Coaching
-- 🤾 Handball Coaching
-- 📫 How to reach me:
-Contact : 0719182336
-📧 Email: jamesmwangiismyhandle@gmail.com
-
-📍 Kenya
-
-⚡ Fun fact: I love swimming and playing chess.
+Contact :0719182336
+Email: jamesmwangiismyhandle@gmail.com
+Location: Kenya
 
 Thank you for visiting my profile! 🚀
-
--->
