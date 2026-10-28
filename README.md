@@ -6,11 +6,15 @@ I am a teacher, football coach, and aspiring web developer.
 I am developing my digital skills through the IYF Season 12 program.
 
 ## My Skills and Interests
+
 - Teaching and mentorship
 - Football and handball coaching
 - Agriculture and Integrated Science
 - HTML and web development
 - Git and GitHub
+- Markdown for documentation and formatting
+- GitHub Codespaces for cloud-based coding practice
+
 
 ## My Learning Projects
 
